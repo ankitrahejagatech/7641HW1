@@ -3,3 +3,4 @@ torch>=2.2, <=2.3
 numpy
 matplotlib
 statsmodels
+imblearn
